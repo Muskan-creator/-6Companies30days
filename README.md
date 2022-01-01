@@ -13,6 +13,6 @@ Company Name : Goldman Sachs
 Questions :
 
 Day 1
-Given an array of strings, return all groups of strings that are anagrams. [LINK]
-Overlapping rectangles [LINK]
+Given an array of strings, return all groups of strings that are anagrams. [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Print%20Anagrams%20Together.cpp)<br>
+Overlapping rectangles [LINK]<br>
 Count the subarrays having product less than k [LINK]
