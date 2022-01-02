@@ -11,11 +11,19 @@ You should be completing 1 company (15 Questions) in 5 days and try maintaining 
 
 Company Name : Goldman Sachs
 Questions :link
-[Given an array of strings, return all groups of strings that are anagrams.](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)
-[Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)
-[Count the subarrays having product less than k](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)
+1.[Given an array of strings, return all groups of strings that are anagrams.](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)<br>
+2.[Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)<br>
+3.[Count the subarrays having product less than k](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)<br>
+4.[Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string.
+eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys)](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)
 
 Day 1
 Given an array of strings, return all groups of strings that are anagrams. [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Print%20Anagrams%20Together.cpp)<br>
 Overlapping rectangles [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Print%20Anagrams%20Together.cpp)<br>
 Count the subarrays having product less than k [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Count%20the%20subarrays%20having%20product%20less%20than%20k.cpp)
+Day 2
+Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string.
+eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys)<br>
+
+Program to find Nth Ugly Number.<br>
+Given two strings str1 and str2. We say that str2 divides str1 if it's possible<br>
