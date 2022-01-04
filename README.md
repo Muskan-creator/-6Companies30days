@@ -38,7 +38,7 @@ eg if the input string is “wwwwaaadexxxxxx”, then the function should return
 Program to find Nth Ugly Number[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Uglyno.cpp).<br>
 Given two strings str1 and str2. We say that str2 divides str1 if it's possible[LINK](https://github.com/Muskan-creator/-6Companies30days/tree/main)<br>
 ## Day 3
-Find the kid which gets tha damaged toy<br>
+Find the kid which gets tha damaged toy[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/distributeitemsin%20circle.cpp)<br>
  Total Decoding Messages<br>
 Given a pattern containing only I's and D's. I for increasing and D  for decreasing.Devise an algorithm to print the minimum number following that pattern.<br>
 ## Day 4
