@@ -39,7 +39,7 @@ Program to find Nth Ugly Number[LINK](https://github.com/Muskan-creator/-6Compan
 Given two strings str1 and str2. We say that str2 divides str1 if it's possible[LINK](https://github.com/Muskan-creator/-6Companies30days/tree/main)<br>
 ## Day 3
 Find the kid which gets tha damaged toy[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/distributeitemsin%20circle.cpp)<br>
- Total Decoding Messages<br>
+ Total Decoding Messages[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/decodingmsg.cpp)<br>
 Given a pattern containing only I's and D's. I for increasing and D  for decreasing.Devise an algorithm to print the minimum number following that pattern[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/nofollowingpatternstack.cpp).<br>
 ## Day 4
 Find max 10 numbers in a list having 10M entries.[LINK]<br>
