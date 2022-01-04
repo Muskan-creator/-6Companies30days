@@ -40,6 +40,6 @@ Given two strings str1 and str2. We say that str2 divides str1 if it's possible[
 ## Day 3
 Find the kid which gets tha damaged toy[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/distributeitemsin%20circle.cpp)<br>
  Total Decoding Messages<br>
-Given a pattern containing only I's and D's. I for increasing and D  for decreasing.Devise an algorithm to print the minimum number following that pattern.<br>
+[Given a pattern containing only I's and D's. I for increasing and D  for decreasing.Devise an algorithm to print the minimum number following that pattern](https://github.com/Muskan-creator/-6Companies30days/blob/main/nofollowingpatternstack.cpp).<br>
 ## Day 4
 
