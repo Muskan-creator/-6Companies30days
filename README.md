@@ -42,7 +42,7 @@ Find the kid which gets tha damaged toy[LINK](https://github.com/Muskan-creator/
  Total Decoding Messages[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/decodingmsg.cpp)<br>
 Given a pattern containing only I's and D's. I for increasing and D  for decreasing.Devise an algorithm to print the minimum number following that pattern[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/nofollowingpatternstack.cpp).<br>
 ## Day 4
-Find max 10 numbers in a list having 10M entries.[LINK]<br>
+Find max 10 numbers in a list having 10M entries.[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/max10no.cpp)<br>
 Given an unsorted array Arr of size N of positive integers. One number 'A' from  set {1, 2, …N} is missing and one number 'B' occurs twice in array. [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/missingrepeating.cpp)<br>
 Find these two numbers. Find total number of Squares in a N*N chessboard[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/noofsq.cpp)<br>
 ## Day 5
