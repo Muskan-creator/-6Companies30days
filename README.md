@@ -46,7 +46,7 @@ Find max 10 numbers in a list having 10M entries.[LINK]<br>
 Given an unsorted array Arr of size N of positive integers. One number 'A' from  set {1, 2, …N} is missing and one number 'B' occurs twice in array. [LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/missingrepeating.cpp)<br>
 Find these two numbers. Find total number of Squares in a N*N chessboard[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/noofsq.cpp)<br>
 ## Day 5
-Decode the string[LINK]<br>
+Decode the string[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/decodestring.cpp)<br>
 Minimum Size Subarray Sum [LINK](
 https://github.com/Muskan-creator/-6Companies30days/blob/main/minimumsubarraysum.cpp)<br>
-Array Pair Sum Divisibility Problem[LINK]<br>
+Array Pair Sum Divisibility Problem[LINK](https://github.com/Muskan-creator/-6Companies30days/blob/main/Arraydivisibilitysumproblem.cpp)<br>
