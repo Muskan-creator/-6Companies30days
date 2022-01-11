@@ -13,4 +13,4 @@
 12.[Column name from a given column number](https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/)<br>
 13.[Rotten Oranges -Multiple Repetitions](https://leetcode.com/problems/rotting-oranges/)<br>
 14.[Tree Burning ](https://practice.geeksforgeeks.org/problems/burning-tree/1/)<br>
-15. [Delete N nodes after M nodes of a linked list] (https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)
+15. [Delete N nodes after M nodes of a linked list](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)
